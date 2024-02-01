@@ -39,7 +39,7 @@ The project is organized into the following steps:
 - Install the required libraries using: `pip install pandas numpy matplotlib seaborn`.
 
 ### Running the Code
-1. Clone the repository: `git clone https://github.com/your-username/divvy-bikes-analysis.git`
+1. Clone the repository: `git clone https://github.com/shakir5154/divvy-bikes-analysis.git`
 2. Navigate to the project directory: `cd divvy-bikes-analysis`
 3. Run the Jupyter Notebook: `jupyter notebook`
 
