@@ -32,21 +32,6 @@ The project is organized into the following steps:
 6. **Export Summary File**
    - A CSV file containing average ride lengths is generated for further analysis.
 
-## Instructions
-
-### Prerequisites
-- Ensure you have Python installed on your machine.
-- Install the required libraries using: `pip install pandas numpy matplotlib seaborn`.
-
-### Running the Code
-1. Clone the repository: `git clone https://github.com/shakir5154/divvy-bikes-analysis.git`
-2. Navigate to the project directory: `cd divvy-bikes-analysis`
-3. Run the Jupyter Notebook: `jupyter notebook`
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
